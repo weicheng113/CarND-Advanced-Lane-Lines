@@ -1,0 +1,1 @@
+chessboard_size = (9,6)
